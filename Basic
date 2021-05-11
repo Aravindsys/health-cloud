@@ -1,0 +1,34 @@
+patient records are person accounts in health cloud
+
+Different types of data models in health cloud:
+1) household data model - patients' human circle
+2) clinical data model - more than 30 objects. Traditionally patient history reocrds are stored in 
+EHR(Electronic Health records). these data will be taken and put into these objects.
+3) Health Insurance and Claims data model - patient insurance informations and how hes going to claim it
+4) Care program data model - setting up care program for the patient
+5) Social determinants of health data model - environmental conditions and social status of the patient
+6) Provider data model - helps to find right provider for patients, care team members or organisations
+7) Utilization Management Data model - to check whether the insurance and claims requests that comes are legit and valid for
+                                       approvals
+
+
+Care plan in health cloud is similar to case objects. The actual problem of the person
+Care plam problem - the problem that patient suffers because of the case
+Care plam goals - actions to be taken to solve the care plan problems
+tasks - new tasks are created to solve them
+
+Pre-deployement steps before installing Health cloud on production orgs
+1) Allow person accounts
+2) Allow shared contacts
+3) Enable Chatter 
+4) Register my Domain
+5) Install the health cloud package
+
+Installed
+
+6) Use person accounts
+7) Assign health cloud persmissions
+8) Assign health cloud profiles
+9) Set OWD
+
+
